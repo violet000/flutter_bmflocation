@@ -1,0 +1,2 @@
+# flutter_bmflocation
+基于flutter的百度地图定位插件，插件通过provides注入的方式提供api使用.
